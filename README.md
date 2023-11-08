@@ -3,7 +3,7 @@
  
  **Occupation:** student
  
- **Skills:** html, css, js, python, c#
+ **Skills:** html, css, js, react, python, c#
  
  # Link
   >https://github.com/silverisiron
